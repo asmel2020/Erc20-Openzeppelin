@@ -43,6 +43,9 @@ contract MyToken is ERC20, ERC20Burnable, Pausable, Ownable {
     }
 }
 ```
+
+⌨️ with ❤️ for [asmel](https://github.com/asmel2020) 😊
+
 ## License
 
 MIT
